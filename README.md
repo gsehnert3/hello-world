@@ -1,4 +1,2 @@
 # hello-world
-wrong my buddy
-
-I have learned, yung grass hoppa
+ What happens if I put an equation in the following line?>>>>>>> main
