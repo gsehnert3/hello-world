@@ -1,4 +1,4 @@
 # hello-world
-Just another repository
+wrong my buddy
 
-This is how I am going to learn to code. What happens if I put an equation in the following line?
+I have learned, yung grass hoppa
